@@ -197,7 +197,7 @@ var sorgenCenters = { // Center locations of the bubbles.
     'Hat Handy beim Schlafen eher in Griffweite': 575,
     'Hat Handy beim Schlafen eher nicht in Griffweite': 775,
     'Hat Handy beim Schlafen nicht in Griffweite': 825,
-    'Griffweite beim Schlafen': 600
+    'Griffweite beim Schlafen': 550
   };
     
     var griffweiteTitleY = { // X locations of the year titles.
@@ -205,20 +205,20 @@ var sorgenCenters = { // Center locations of the bubbles.
     'Hat Handy beim Schlafen eher in Griffweite': 200,
     'Hat Handy beim Schlafen eher nicht in Griffweite': 600,
     'Hat Handy beim Schlafen nicht in Griffweite': 140,
-      'Griffweite beim Schlafen': 50
+      'Griffweite beim Schlafen': 25
   };
   
   
   //Siebter Button: Schutzmassnahmen
    var schutzmassnahmenCenters = { // Center locations of the bubbles.
-    1: { x: 500, y: height / 2 },
-    2: { x: 800, y: height / 2 },
+    1: { x: 450, y: height / 2 },
+    2: { x: 675, y: height / 2 },
   };
 
   var schutzmassnahmenTitleX = { // X locations of the year titles.
     
-    'Ergreift Schutzmassnahmen': 425,
-    'Ergreift keine Schutzmassnahmen': 975,
+    'Ergreift Schutzmassnahmen': 375,
+    'Ergreift keine Schutzmassnahmen': 800,
     
   };
   //Achter Button: Bszgeschlecht
@@ -241,7 +241,7 @@ var sorgenCenters = { // Center locations of the bubbles.
     'Weiblich Mittel': 700,
     'Weiblich Hoch': 835,
     'Sonstige': 525,
-    'Bildschrimzeit Geschlechter': 500
+    'Bildschrimzeit Geschlechter': 550
   };
   var bszgeschlechtTitleY = { // X locations of the year titles.
     'Männlich Wenig': 150,
@@ -251,7 +251,7 @@ var sorgenCenters = { // Center locations of the bubbles.
     'Weiblich Mittel': 510,
     'Weiblich Hoch': 560,
     'Sonstige': 500,
-    'Bildschrimzeit Geschlechter': 500
+    'Bildschrimzeit Geschlechter': 25
   };
   
   
